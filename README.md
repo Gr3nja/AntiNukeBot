@@ -1,5 +1,6 @@
 # AntiNukeBot
-Nuke対策用DiscordBot
+Nuke対策用DiscordBotです。
+Bot
 <img width="128" height="128" alt="ロゴ" src="https://github.com/user-attachments/assets/2f1b562d-772b-423d-8662-add4b79b1c5e" />
 
 Bot導入↓
